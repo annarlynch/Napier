@@ -8,7 +8,7 @@ itsdangerous==0.24
 jdcal==1.4
 Jinja2==2.10
 MarkupSafe==2.0.1
-mechanize==0.3.6
+mechanize==0.4.7
 openpyxl==2.5.5
 selenium==3.14.0
 six==1.11.0
